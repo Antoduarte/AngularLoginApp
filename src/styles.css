@@ -12,3 +12,24 @@ shadow{
         flex-direction: column !important;
     }
  }
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ .mein p{
+    width: 75%;
+    
+}
+.mein{
+
+  z-index: 100;
+}
+  svg#clouds {
+    position: fixed;
+    bottom: -220px;
+    left: -230px;
+    width: 1920px;
+  }
